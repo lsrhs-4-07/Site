@@ -1,0 +1,13 @@
+body {
+  color: blue;
+  background-color: black;}
+h1{
+  color:white;
+  font-family:font-family: 'Open Sans', sans-serif;, serif;
+  font-size:30pt;
+  Example
+  table, th, td {border: 1px solid red;}
+}
+img{
+  padding:10px;
+}
