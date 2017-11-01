@@ -1,0 +1,28 @@
+body {
+  color: black;
+  background-color: green;}
+h1{
+  color:black;
+font-family: 'Oswald', sans-serif;
+  font-size:30pt;
+}
+  table, th, td {border: 20px solid blue
+;
+}
+img{
+  padding:10px;
+}
+table {
+  width: 100%;
+}
+td{
+  width: 50%;
+  padding: 20px;
+  padding: 20px;
+}
+img{
+  width: 350px;
+}
+ul{
+  list-style-type: none;
+}
